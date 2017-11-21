@@ -1,0 +1,94 @@
+@media (max-width: 767px) {
+    #header {
+    background: url(../img/bgimgfull.png);
+    background-size: cover;
+    height: 651px;
+    background-position: center center;
+    width: 3;
+    /* width: 540px; */
+}
+    .logo {
+    margin-top: 30px;
+    padding-left: 207px;
+}
+    .heading {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 51px;
+    font-size: 32px;
+    padding-bottom: -24px;
+    padding-top: -22px;
+}
+    .btn01 {
+    height: 36px;
+    width: 110px;
+    background-color: #fc6a42;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+    .btn02 {
+    height: 36px;
+    width: 110px;
+    background-color: #4466c9;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+    .image1 {
+    width: 100%;
+}
+    .phone_details {
+    width: 480px;
+    margin-top: 152px;
+    margin-left: 31px;
+}
+    .download {
+    text-align: center;
+    /* margin: 0 auto; */
+}
+ .download_details {
+    color: white;
+    font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 40px;
+    text-align: unset;
+    padding-left: 63px;
+    width: 422px;
+}
+    .navbar-default {
+    border-color: transparent;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 10px;
+}
+    .copyright {
+    color: #565b87;
+    margin-top: 40px;
+    text-align: center;
+    /* margin-left: 0px; */
+    margin-right: 70px;
+}
+    .navfooter .navbar-nav > li > a {
+    color: #b5b5c8;
+    margin-top: 41px;
+    font-size: 16px;
+    padding-left: 26px;
+    background: #;
+    background: #353854;
+}
+    
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+}
+@media (min-width: 1200px) {
+
+}
